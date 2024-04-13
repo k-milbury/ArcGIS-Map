@@ -1,0 +1,48 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  background-color: rgb(5, 24, 43);
+  color: #fff;
+}
+
+
+#viewDiv {
+  padding: 0;
+  margin: auto;
+  height: 80%;
+  width: 50%;
+  border: 10px double rgb(255, 255, 255);
+}
+
+header {
+  left: 0;
+  background-color: white;
+  border-bottom:  10px inset rgba(0, 0, 0, 0.301);
+}
+
+img {
+  width: 20%;
+  height: auto;
+}
+
+footer {
+  background-color: #ffff;
+  margin-top: 20px;
+  padding: 10px;
+  padding-top: 15px;
+  text-align: center;
+  font-weight: bold;
+  border-top:  10px inset rgba(0, 0, 0, 0.301);
+  color: black;
+}
+
+footer p {
+  font-size: 0.8rem;
+  font-weight: 300;
+ 
+}
+
